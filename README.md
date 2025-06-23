@@ -15,3 +15,5 @@ SPOTIPY_CLIENT_ID=your_client_id_here
 SPOTIPY_CLIENT_SECRET=your_client_secret_here
 SPOTIPY_REDIRECT_URI=your_redirect_uri_here
 ```
+
+https://developer.spotify.com/documentation/web-api
