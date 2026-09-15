@@ -23,4 +23,3 @@ cp .env.example .env
 
 Renseignez vos identifiants Spotify dans `.env`, enregistrez la même URI de redirection dans votre [application Spotify](https://developer.spotify.com/dashboard), puis ouvrez [`main.ipynb`](main.ipynb) dans JupyterLab ou VS Code.
 
-Le notebook utilise les premiers titres renvoyés pour chaque playlist. Les résultats décrivent cet échantillon de playlists, pas les écoutes de l'ensemble des utilisateurs Spotify.
